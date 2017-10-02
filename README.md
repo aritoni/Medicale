@@ -1,3 +1,4 @@
 # Medicale
 Medical Clinic Website
-This contains a one page responsible designed webpage
+This repository contains a minimalistic responsive one page webpage
+The important information such as: hours and services are on the web page 
